@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1rKAoerdRwosduJraXzCZvQcXQA=
+		R3bIi2MAujLCWANxOm1OclJYEPw=
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		1rKAoerdRwosduJraXzCZvQcXQA=
+		R3bIi2MAujLCWANxOm1OclJYEPw=
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FJwQBCTb9ADTzey/RhQF0vKL+OQ=
+		G2XdKvDJyQ4LJFIF6OQf4khyLIY=
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FJwQBCTb9ADTzey/RhQF0vKL+OQ=
+		G2XdKvDJyQ4LJFIF6OQf4khyLIY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+wb+3QSgh4WbTIwWlkYaRDhp5/qRlOnC9sVaDdkj+ZA=
+			6x6XZZPKiLr1/8Efah+/4mHiz3nWIFv1pBt0FZu+pLQ=
 			</data>
 		</dict>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+wb+3QSgh4WbTIwWlkYaRDhp5/qRlOnC9sVaDdkj+ZA=
+			6x6XZZPKiLr1/8Efah+/4mHiz3nWIFv1pBt0FZu+pLQ=
 			</data>
 		</dict>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2hOnlkWfP5FuvFRTWO8dafNANVAwbIhIKOsRb8zRsnc=
+			yD4/HDIn+X9dxHJD3wZhWZDBXZ1gROdThDNCzk0ICas=
 			</data>
 		</dict>
 		<key>Modules/SkyFloatingLabelTextField.swiftmodule/x86_64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2hOnlkWfP5FuvFRTWO8dafNANVAwbIhIKOsRb8zRsnc=
+			yD4/HDIn+X9dxHJD3wZhWZDBXZ1gROdThDNCzk0ICas=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/penka/Downloads/SkyFloatingLabelTextField-master/SkyFloatingLabelTextFieldObjectiveCExample/build/Pods.build/Debug-iphonesimulator/Pods-SkyFloatingLabelTextFieldObjectiveCExample.build/DerivedSources/Pods_SkyFloatingLabelTextFieldObjectiveCExample_vers.c
+  /Users/penka/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldObjectiveCExample/build/Pods.build/Debug-iphonesimulator/Pods-SkyFloatingLabelTextFieldObjectiveCExample.build/DerivedSources/Pods_SkyFloatingLabelTextFieldObjectiveCExample_vers.c

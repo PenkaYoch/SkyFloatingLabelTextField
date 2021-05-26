@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': "/Users/penka/Desktop/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldObjectiveCExample/build/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules"
+    'name': "/Users/penka/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldObjectiveCExample/build/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules"
     'contents': [{
       'type': 'file',
       'name': "module.modulemap",
-      'external-contents': "/Users/penka/Desktop/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldObjectiveCExample/build/Pods.build/Debug-iphonesimulator/SkyFloatingLabelTextField.build/unextended-module.modulemap",
+      'external-contents': "/Users/penka/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldObjectiveCExample/build/Pods.build/Debug-iphonesimulator/SkyFloatingLabelTextField.build/unextended-module.modulemap",
     }]
   }]
 }
